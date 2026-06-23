@@ -1,0 +1,21 @@
+BuilderID,BuilderCode,BuilderName,BuilderType,EstablishedYear,ExperienceYears,CompanyType,HeadOfficeCity,HeadOfficeState,Country,BuilderRating,TotalProjects,TotalPropertiesBuilt,OnTimeDeliveryRatePercent,AvgPricePerSqFt,LuxurySegmentFlag,RERARegisteredFlag,BuilderStatus
+1,BLD-001,DLF Limited,Regional,2020,20,Public,Hyderabad,Telangana,India,4.2,43,3951,78,6635,Yes,Yes,Active
+2,BLD-002,Lodha Group,Regional,2021,17,Public,Mumbai,Maharashtra,India,4.8,21,2302,76,4867,Yes,Yes,Active
+3,BLD-003,Prestige Group,National,2022,29,Public,Hyderabad,Telangana,India,3.9,46,3348,93,9921,No,Yes,Active
+4,BLD-004,Godrej Properties,National,2023,15,Private,Delhi,Delhi,India,3.8,26,1931,91,6814,Yes,Yes,Active
+5,BLD-005,Sobha Developers,Regional,2024,19,Private,Bangalore,Karnataka,India,3.5,46,4474,81,6744,Yes,Yes,Active
+6,BLD-006,Tata Housing,Regional,2025,23,Public,Ahmedabad,Gujarat,India,4.1,44,769,77,6703,No,Yes,Active
+7,BLD-007,L&T Realty,Local,2020,9,Private,Ahmedabad,Gujarat,India,4.9,17,3319,94,10954,No,Yes,Active
+8,BLD-008,Brigade Group,Local,2021,22,Public,Chennai,Tamil Nadu,India,3.9,7,1152,76,4947,Yes,Yes,Active
+9,BLD-009,Shapoorji Pallonji,Regional,2022,27,Public,Delhi,Delhi,India,3.8,24,3466,90,11815,Yes,Yes,Active
+10,BLD-010,Mahindra Lifespaces,Local,2023,19,Private,Mumbai,Maharashtra,India,3.5,47,3705,91,7976,No,Yes,Active
+11,BLD-011,Oberoi Realty,National,2024,15,Public,Hyderabad,Telangana,India,4,35,2377,86,4513,No,Yes,Active
+12,BLD-012,Puravankara Limited,Regional,2025,27,Private,Bangalore,Karnataka,India,3.9,20,4818,80,10904,No,Yes,Active
+13,BLD-013,ATS Infrastructure,Regional,2020,23,Public,Chennai,Tamil Nadu,India,4.3,49,4821,94,7810,No,Yes,Active
+14,BLD-014,Runwal Group,Local,2021,17,Private,Hyderabad,Telangana,India,4.9,36,3962,72,8674,No,Yes,Active
+15,BLD-015,Kolte-Patil Developers,Regional,2022,17,Private,Hyderabad,Telangana,India,3.8,41,1066,75,10040,Yes,Yes,Active
+16,BLD-016,Embassy Group,Regional,2023,28,Private,Delhi,Delhi,India,3.7,7,2670,80,5995,No,Yes,Active
+17,BLD-017,Hiranandani Group,Regional,2024,5,Private,Delhi,Delhi,India,4.6,35,905,88,9504,No,Yes,Active
+18,BLD-018,Sunteck Realty,Regional,2025,28,Private,Pune,Maharashtra,India,4.4,26,2533,91,6600,No,Yes,Active
+19,BLD-019,Indiabulls Real Estate,Local,2021,14,Public,Hyderabad,Telangana,India,5,8,4135,94,9648,Yes,Yes,Active
+20,BLD-020,Raheja Developers,Regional,2022,23,Private,Bangalore,Karnataka,India,4.1,36,3456,78,4488,Yes,Yes,Active
