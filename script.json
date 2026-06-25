@@ -1,0 +1,42 @@
+[
+  {
+    "p_rel_url"     : "Abhinandannjain04/Realestate/refs/heads/main/agent/Final%20Dataset%20of%20Real%20Estate(Agent).csv",
+    "p_sink_folder" : "agent",
+    "p_sink_file"   : "Final Dataset of Real Estate(Agent).csv"
+  },
+  {
+    "p_rel_url"     : "Abhinandannjain04/Realestate/refs/heads/main/builder/Final%20Dataset%20of%20Real%20Estate(Builder).csv",
+    "p_sink_folder" : "builder",
+    "p_sink_file"   : "Final Dataset of Real Estate(Builder).csv"
+  },
+  {
+    "p_rel_url"     : "Abhinandannjain04/Realestate/refs/heads/main/customer/Final%20Dataset%20of%20Real%20Estate(Customer).csv",
+    "p_sink_folder" : "customer",
+    "p_sink_file"   : "Final Dataset of Real Estate(Customer).csv"
+  },
+  {
+    "p_rel_url"     : "Abhinandannjain04/Realestate/refs/heads/main/expense/Final%20Dataset%20of%20Real%20Estate(Expense).csv",
+    "p_sink_folder" : "expense",
+    "p_sink_file"   : "Final Dataset of Real Estate(Expense).csv"
+  },
+  {
+    "p_rel_url"     : "Abhinandannjain04/Realestate/refs/heads/main/leads/Final%20Dataset%20of%20Real%20Estate(Leads).csv",
+    "p_sink_folder" : "leads",
+    "p_sink_file"   : "Final Dataset of Real Estate(Leads).csv"
+  },
+  {
+    "p_rel_url"     : "Abhinandannjain04/Realestate/refs/heads/main/lease/Final%20Dataset%20of%20Real%20Estate(Lease).csv",
+    "p_sink_folder" : "lease",
+    "p_sink_file"   : "Final Dataset of Real Estate(Lease).csv"
+  },
+  {
+    "p_rel_url"     : "Abhinandannjain04/Realestate/refs/heads/main/property/Final%20Dataset%20of%20Real%20Estate(Property).csv",
+    "p_sink_folder" : "property",
+    "p_sink_file"   : "Final Dataset of Real Estate(Property).csv"
+  },
+  {
+    "p_rel_url"     : "Abhinandannjain04/Realestate/refs/heads/main/sales/Final%20Dataset%20of%20Real%20Estate(Sales).csv",
+    "p_sink_folder" : "sales",
+    "p_sink_file"   : "Final Dataset of Real Estate(Sales).csv"
+  }
+]
